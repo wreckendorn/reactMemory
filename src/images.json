@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Chromatics side profile",
+    "image": "http://www.undertheradar.co.nz/images/image.php/chromatics20181240.jpg?width=1220&cropratio=1.8:1&image=/images/newsImages/chromatics20181240.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Chromatics triplicate front pink background",
+    "image": "https://imagescdn.juno.co.uk/full/CS612009-01A-BIG.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image": "https://video-images.vice.com/articles/5b1f821257a0a40006acd661/lede/1528793173078-Screen-Shot-2018-06-12-at-094548.png?crop=1xw%3A0.5634469696969697xh%3Bcenter%2Ccenter&resize=650%3A*&output-quality=55",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "image": "http://i1.wp.com/musicandriots.com/wp-content/uploads/2018/05/9fd2752a3bfbb737ed19ccaec7cbe076.jpg?resize=600%2C460",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Johnny Jewel",
+    "image": "https://d3c1jucybpy4ua.cloudfront.net/data/53466/big_picture/Chromatics240912.jpeg?1493903688",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Glass Candy pink background",
+    "image": "http://factmag-images.s3.amazonaws.com/wp-content/uploads/2010/04/glasscandy-21042010.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Johnny and Ida",
+    "image": "https://ichef.bbci.co.uk/images/ic/960x540/p02n5wnt.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Johnny and Desire",
+    "image": "https://media.pitchfork.com/photos/5931b89331bcdd1242928fd2/2:1/w_790/685d621b.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Italians Do It Better Sampler Vol 1",
+    "image": "https://boyscoutmag.com/wp-content/uploads/2012/10/98bbf774.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Italians Do It Better After Dark 2",
+    "image": "http://blog.kexp.org/files/2013/05/AFTER-DARK-2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Italians Do it Better Disco with hand signs",
+    "image": "https://consequenceofsound.files.wordpress.com/2013/04/italiansdoitbetterlogo.jpg?quality=80&w=470",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Italians Do it Better t-shirt design",
+    "image": "http://3.bp.blogspot.com/-QNQtKdL2kgs/UHb7gL8-TAI/AAAAAAAAAzE/YP_tQhDmOSw/s1600/T+SHIRT.jpg",
+    "clicked": false
+  }
+]
